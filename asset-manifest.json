@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/final-web-project/static/css/main.9e942e30.chunk.css",
+    "main.js": "/final-web-project/static/js/main.c7c0933d.chunk.js",
+    "main.js.map": "/final-web-project/static/js/main.c7c0933d.chunk.js.map",
+    "runtime-main.js": "/final-web-project/static/js/runtime-main.60ec3dff.js",
+    "runtime-main.js.map": "/final-web-project/static/js/runtime-main.60ec3dff.js.map",
+    "static/css/2.7f2ec892.chunk.css": "/final-web-project/static/css/2.7f2ec892.chunk.css",
+    "static/js/2.7482ee44.chunk.js": "/final-web-project/static/js/2.7482ee44.chunk.js",
+    "static/js/2.7482ee44.chunk.js.map": "/final-web-project/static/js/2.7482ee44.chunk.js.map",
+    "index.html": "/final-web-project/index.html",
+    "static/css/2.7f2ec892.chunk.css.map": "/final-web-project/static/css/2.7f2ec892.chunk.css.map",
+    "static/css/main.9e942e30.chunk.css.map": "/final-web-project/static/css/main.9e942e30.chunk.css.map",
+    "static/js/2.7482ee44.chunk.js.LICENSE.txt": "/final-web-project/static/js/2.7482ee44.chunk.js.LICENSE.txt",
+    "static/media/logoDark1.9f2a763b.svg": "/final-web-project/static/media/logoDark1.9f2a763b.svg",
+    "static/media/logoLight.85c1c87c.svg": "/final-web-project/static/media/logoLight.85c1c87c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60ec3dff.js",
+    "static/css/2.7f2ec892.chunk.css",
+    "static/js/2.7482ee44.chunk.js",
+    "static/css/main.9e942e30.chunk.css",
+    "static/js/main.c7c0933d.chunk.js"
+  ]
+}
